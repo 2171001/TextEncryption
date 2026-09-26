@@ -292,11 +292,13 @@ This project demonstrates:
 
 ---
 
-## Author
+## Security Note
 
-**Abel Benedict**
+This project is intended for **educational and security-awareness purposes**.
 
-Cybersecurity enthusiast focused on penetration testing, digital forensics, reverse engineering, red teaming, and security tooling.
+The reported entropy, Markov score, crack time, and overall score are estimates produced by the tool's analysis model. They should not be interpreted as guarantees of how long a real-world attacker would require to recover a password.
+
+For real-world password management, use unique passwords for every service and consider using a reputable password manager.
 
 ---
 
